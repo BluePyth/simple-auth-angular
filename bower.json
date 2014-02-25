@@ -4,7 +4,7 @@
   "main": "dist/simple-auth-angular.min.js",
   "dependencies": {
     "base64-angular": "~1.0.0",
-    "angular-local-storage": "v0.1"
+    "angular-local-storage": "v0.0.1"
   },
   "ignore": [
     "**/.*",
